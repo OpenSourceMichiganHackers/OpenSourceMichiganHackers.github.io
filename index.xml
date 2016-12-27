@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>My New Hugo Site on My New Hugo Site </title>
+      <title>Michigan Hackers Open-Source on Michigan Hackers Open-Source </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://example.org/index.xml</link>
+    <link>https://opensourcemichiganhackers.github.io/index.xml</link>
     <language>en-us</language>
     
     
